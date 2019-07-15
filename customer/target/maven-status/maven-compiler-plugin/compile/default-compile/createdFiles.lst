@@ -1,0 +1,4 @@
+com\tricon\repository\CustomerRepository.class
+com\tricon\bean\Customer.class
+com\tricon\CustomerApplication.class
+com\tricon\service\CustomerService.class
